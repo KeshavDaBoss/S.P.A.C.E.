@@ -81,7 +81,7 @@ pip install mediapipe opencv-python pyautogui
 Navigate to your project directory and run:
 
 ```bash
-python space_main.py
+python space_main_v1.1-gui.py
 ```
 Make sure your webcam is connected and camera permission is granted.
 
