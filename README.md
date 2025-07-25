@@ -19,15 +19,14 @@ The system is built using:
 ## Features
 
 
-GESTURE                             | ACTION                         
------------------------------------- -------------------------------- -------------
-Middle, Pointer and Ring Finger Up  | Play/Pause/Enter (Enter)       | [EXECUTED]
-Pointer Finger Up                   | Scroll up (UP Arrow Key)       | [EXECUTED]
-Pointer Finger Down                 | Scroll down (DOWN Arrow Key)   | [EXECUTED]
-Open/Close Fist                     | Click (Left Mouse Key)         | [EXECUTED]
-Move Palm                           | Move Mouse                     | [EXECUTED]
-Pointer and Middle Finger Up        | Right Click                    | [EXECUTED]
------------------------------------- -------------------------------- -------------
+#Gesture – Action Mapping
+
+Middle, Pointer, and Ring Finger Up – Play/Pause/Enter (Enter)
+Pointer Finger Up – Scroll up (UP Arrow Key)
+Pointer Finger Down – Scroll down (DOWN Arrow Key)
+Open/Close Fist – Click (Left Mouse Key)
+Move Palm – Move Mouse
+Pointer and Middle Finger Up – Right Click
 
 ---
 
