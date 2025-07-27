@@ -99,9 +99,14 @@ To add your own gestures:
 2) Write a new condition function in `space_main.py`.
 2) Trigger a new pyautogui event like `pyautogui.press('z')` or `pyautogui.hotkey()`.
 
+### Community Edition
+
+If you wish, you can send over any interesting, goofy, fun or extended version of S.P.A.C.E. for it to get posted in the "community editions" folder.
+
 ## Credits
 Developer: Pratham Yadav
 Technical Assistant: ChatGPT by OpenAI
+Contact: keshavprathamyadav@gmail.com
 Libraries Used:
 -> MediaPipe
 -> OpenCV
